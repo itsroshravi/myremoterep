@@ -1,1 +1,2 @@
 this is LOC in Prog2
+new lines in added at remote
